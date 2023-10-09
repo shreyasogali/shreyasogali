@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @shreyasogali
+- 🔭 I’m Currently Preparing For Placements
 - 👀 I’m interested in Java, HTML,CSS, JS and MYSQL
 - 🌱 I’m currently training in Tap Academy
 - 💞️ I’m looking to collaborate on Web Development
